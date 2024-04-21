@@ -1,4 +1,4 @@
-#GitHub Repository: Clean Coding with PEP 8 - Design Principles
+# GitHub Repository: Clean Coding with PEP 8 - Design Principles
 
 Welcome to the "Clean Coding with PEP 8 - Design Principles" repository. In this repository, we focus on understanding and implementing design principles to ensure clean and maintainable Python code following the PEP 8 style guide. By adhering to these principles, you'll not only write code that works but also code that is easy to understand and collaborate on.
 
